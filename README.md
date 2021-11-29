@@ -1,5 +1,6 @@
 ## Hello! Welcome to my GitHub profile! 🤩
-### My name is `Lucas Loureiro` and I study `Fullstack Web Development` at [Trybe](https://betrybe.com)!
+### My name is `Lucas Loureiro` and I'm `Front End Developer`.
+### I currently study `Full Stack Web Development` at Trybe [Trybe](https://betrybe.com)!
 
 <br/>
 <div>
