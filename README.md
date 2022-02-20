@@ -1,6 +1,6 @@
 ## Hello! Welcome to my GitHub profile! 🤩
 ### My name is `Lucas Loureiro` and I'm `Front End Developer`.
-I was a biology teacher and am going through a career transition.
+I used to be a biology teacher and went through a career transition to software development.
 ### I currently study `Full Stack Web Development` at [Trybe](https://betrybe.com)!
 
 <br/>
