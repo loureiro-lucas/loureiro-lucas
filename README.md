@@ -1,5 +1,5 @@
 ## Hello! Welcome to my GitHub profile! 🤩
-### My name is `Lucas Loureiro` and I'm `Full Stack Developer` at [SalaryFits](https://www.salaryfits.com.br/).
+### My name is `Lucas Loureiro` and I'm `Full Stack Developer` at Banco do Brasil.
 I used to be a biology teacher and went through a career transition to software development.
 
 <br/>
